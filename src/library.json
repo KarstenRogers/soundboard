@@ -1,0 +1,70 @@
+{
+  "Funny": {
+    "title": "Funny",
+    "sounds": [
+      {
+        "thumb": "https://imgur.com/gallery/qslkBXI",
+        "sound": "Funny/Bruh Sound"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/playstv-3o6fJdc2oPS7QYFG2A",
+        "sound": "Funny/GET NOSCOPED "
+      },
+      {
+        "thumb": "https://giphy.com/gifs/foxtv-family-guy-yoJC2L06aZw6OoqtDG",
+        "sound": "Funny/Tadaah"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/love-movie-perfect-2BG086WOP2Xfi",
+        "sound": "Funny/This Is Sparta"
+      }
+    ]
+  },
+  "Memes": {
+    "title": "Memes",
+    "sounds": [
+      {
+        "thumb": "https://giphy.com/gifs/hercules-what-are-those-hades-FUFyBcCdKoy1W",
+        "sound": "Memes/What are those"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/andy-sanberg-legit-too-ll0JChUiInDxu",
+        "sound": "Memes/That Was Legitness"
+      }
+    ]
+  },
+  "Funny2": {
+    "title": "Funny2",
+    "sounds": [
+      {
+        "thumb": "https://giphy.com/gifs/wasted-leonardo-dicaprio-12fFFvFOaffWww",
+        "sound": "Funny2/GTA V WastedBusted"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/cat-fire-rescue-phJ6eMRFYI6CQ",
+        "sound": "Funny2/HELP ME"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/illuminati-jimmy-urine-money-shot-GHycyakNPWSoo",
+        "sound": "Funny2/Illuminati Confirmed"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/personal-shia-labeouf-just-saying-GcSqyYa2aF8dy",
+        "sound": "Funny2/JUST DO IT"
+      }
+    ]
+  },
+  "Funny3": {
+    "title": "Funny3",
+    "sounds": [
+      {
+        "thumb": "https://giphy.com/gifs/vidme-storage-wars-watch-your-profanity-profamity-4vYksifnc7Sw",
+        "sound": "Funny3/Watch Your Profanity"
+      },
+      {
+        "thumb": "https://giphy.com/gifs/cat-killer-combos-WcGbfY1nYYr1m",
+        "sound": "Funny3/Wombo Combo Where you at"
+      }
+    ]
+  }
+}
